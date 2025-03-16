@@ -1,3 +1,3 @@
 # Object inference using YOLOv11 and OpenCV
 
-![alt text](inference_1)
+![Test run](inference_1.png)
